@@ -50,9 +50,7 @@ const SignIn = () => {
     const [activeTab, setActiveTab] = useState('SAAS');
 
     return (
-        <div className="relative flex justify-center items-center bg-gray-50">
-            
-
+        <div className="relative flex justify-center items-center bg-gray-50 h-screen overflow-hidden">
             <div className="hidden lg:flex lg:w-1/2 bg-white border-r justify-center items-center h-screen fixed left-0">
                 <img 
                     src={authSideImage} 

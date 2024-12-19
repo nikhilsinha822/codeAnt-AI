@@ -1,6 +1,10 @@
+import SignIn from "./pages/SignIn"
+
 const App = () => {
   return (
-    <div className="p-10 font-extrabold text-red-600">App</div>
+    <div>
+      <SignIn/>
+    </div>
   )
 }
 

@@ -40,7 +40,7 @@ const Dashboard = () => {
                         <input
                             type="text"
                             placeholder="Search Repositories"
-                            className="w-full pl-10 pr-4 py-2 border rounded-md text-sm focus:outline-none focus:ring-1 focus:ring-blue-500"
+                            className="w-full md:w-1/3 pl-10 pr-4 py-2 border rounded-md text-sm focus:outline-none focus:ring-1 focus:ring-blue-500"
                         />
                     </div>
 
